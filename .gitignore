@@ -1,0 +1,6 @@
+.idea
+.DS_Store
+uploads/*
+
+# exception to the rule
+!uploads/.gitkeep
